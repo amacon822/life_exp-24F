@@ -1,0 +1,44 @@
+---
+title: "life_exp 224F"
+format: html
+editor: visual
+---
+
+# Abstract
+
+Here, I re-examine the analysis of Oeppen and Vaupel (2002).
+
+# Analysis
+
+```{r}
+#I put this in the terminal to set working directory 
+
+#cd Desktop
+#cd DATA_413
+#cd life_exp
+#ls 
+
+#git status
+#git add -A #adds everything
+#git commit -m "my first commit"
+#git log    # this will see your history, commits, and log
+
+#gitdiff      looks at the differences
+```
+
+```{r}
+library(tidyverse)
+library(gapminder)
+gapminder::gapminder_unfiltered  |> 
+  group_by(year) |>
+  filter(lifeExp == max(lifeExp)) |>
+  ungroup() |>
+  select(year, country, lifeExp) |>
+  arrange(year) ->
+  sumdat
+```
+
+```{r}
+# git commit -m "added code"
+```
+

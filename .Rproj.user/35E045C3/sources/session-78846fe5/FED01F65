@@ -1,0 +1,31 @@
+{
+    "id": "FED01F65",
+    "path": "~/Desktop/DATA_413/life_exp/life_exp_24f.qmd",
+    "project_path": "life_exp_24f.qmd",
+    "type": "quarto_markdown",
+    "hash": "287531763",
+    "contents": "",
+    "dirty": true,
+    "created": 1724975880158.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "12,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "505:226.81817626953125"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1724975293,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1724976374143,
+    "read_only": false,
+    "read_only_alternatives": []
+}

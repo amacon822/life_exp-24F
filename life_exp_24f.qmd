@@ -24,6 +24,13 @@ Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 #git log    # this will see your history, commits, and log
 
 #gitdiff      looks at the differences
+
+
+#If i create me new respitory, i have to do following code:
+#git init
+#git status 
+
+#make sure .git is in the repository 
 ```
 
 ```{r}
@@ -41,4 +48,3 @@ gapminder::gapminder_unfiltered  |>
 ```{r}
 # git commit -m "added code"
 ```
-

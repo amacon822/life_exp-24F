@@ -51,4 +51,8 @@ gapminder::gapminder_unfiltered  |>
 #test
 # new new
 library(abind)
+library(fansi)
+
+4-4
+1-2
 ```

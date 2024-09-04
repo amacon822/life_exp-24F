@@ -43,8 +43,10 @@ gapminder::gapminder_unfiltered  |>
   select(year, country, lifeExp) |>
   arrange(year) ->
   sumdat
+
 ```
 
 ```{r}
 # git commit -m "added code"
 ```
+
